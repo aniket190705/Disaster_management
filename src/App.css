@@ -1,0 +1,19 @@
+.card-container {
+  /* width: 900px; */
+  height: auto;
+  border: 2px solid black;
+}
+
+.container {
+  display: flex;
+  gap: 20px;
+  justify-content: space-between;
+}
+
+h1 {
+  font-size: 20px;
+}
+
+p {
+  font-size: 15px;
+}
